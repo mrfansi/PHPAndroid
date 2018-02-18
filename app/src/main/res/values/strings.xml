@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PHP Android</string>
+    <string name="btnTambahBrg">Tambah Barang</string>
+    <string name="lblNamaBrg">Nama Barang</string>
+    <string name="lblStokBrg">Stok Barang</string>
+    <string name="lblHrgBrg">Harga Barang</string>
+    <string name="btnListBrg">List Barang</string>
+    <string name="lblIDBrg">ID</string>
+    <string name="btnUpdateBrg">Update Barang</string>
+    <string name="btnHapusBrg">Hapus Barang</string>
+</resources>
